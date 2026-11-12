@@ -1,0 +1,5 @@
+Step1:start
+Step2:Read grade
+Step3:if grade >=50 then print pass
+Step4:otherwise print fail
+Step5:End
