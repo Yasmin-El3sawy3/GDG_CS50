@@ -1,1 +1,13 @@
+Step1: start
+Step2: Read student_number
+Step3: load studets_list
+Step4: if student_number found in student_list Then print "allow to enter"
+Step5: otherwise print "false number you can't enter "
+Step6: End
+-------------------------------------------------------------------------------
+المدخلات اللى هندخلها هى اول حاجة قائمة ارقام الجلوس تانى حاجة  رقم الجلوس
+رقم الجلوس لو موجود فى القائمة هيطبع enter  وده هيكون المخرجات
+القرارات هما قرارين :
+انه الرقم يكون صح وكده هيطبع دخول 
+او انه يكون مش موجود وكده مش مسموحله الدخول وبردو لو دخل رموز غريبة هيكون مش مسموحله الدخول
 
